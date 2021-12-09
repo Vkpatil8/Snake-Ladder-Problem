@@ -1,5 +1,5 @@
 public class UseCase1 {
-    int UseCase1(){
-        return (int) Math.floor((Math.random()*6) +  1);
+    int Use_Case1(){
+        return (int)((Math.random()*6) +  1);
     }
 }
